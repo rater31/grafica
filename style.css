@@ -1,0 +1,16 @@
+header{
+    background-color:  hsl(10, 79%, 65%);
+    border-radius: 15px;
+    width: auto;
+}
+.logo{
+        
+}
+body{
+    background-color:hsl(27, 66%, 92%) ;
+}
+.section1{
+    background-color: white !important;
+    border-radius: 15px;
+    width: auto;
+}
